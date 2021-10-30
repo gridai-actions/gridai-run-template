@@ -1,6 +1,5 @@
 name: 'run.py TODO: CHANGE NAME'
 on:
-on:
   push:
     paths:
       - run.py
