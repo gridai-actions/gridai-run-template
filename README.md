@@ -18,7 +18,7 @@ Steps to reproduce the issue
 
 | Test | Expected Results | Actual Results | Script | Runner | Run |
 | -- | -- | -- | -- | -- | -- |
-| <!-- what is the test --> | <!-- expected results --> | <!-- actual results --> | [run.py](./run.py) | [unittest-run.yml](./.github/workflows/unittest-run.yml) | [![run.py](https://github.com/gridai-actions/test-log-txt-suffix-in-artifacts/actions/workflows/unittest-run.yml/badge.svg)](https://github.com/gridai-actions/test-log-txt-suffix-in-artifacts/actions/workflows/unittest-run.yml) |
+| <!-- what is the test --> | <!-- expected results --> | <!-- actual results --> | [run.py](./run.py) | [unittest-run.yml](./.github/workflows/unittest-run.yml) | [![run.py TODO: CHANGE NAME](https://github.com/gridai-actions/gridai-run-template/actions/workflows/unittest-run.yml/badge.svg)](https://github.com/gridai-actions/gridai-run-template/actions/workflows/unittest-run.yml) |
 
 ### Environment
 
